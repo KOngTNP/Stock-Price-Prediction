@@ -9,7 +9,7 @@ The objective of the project is to perform how the algorithms work and how to pr
 This is the website where you can find historical data for various stocks. 
 For this project I have used the data for ‘Apple Inc.’
 
-##Table of Contents
+## Table of Contents
  - Linear Regression Algorithm
  - K Nearest Neighbors Algorithm
  - Prophet
